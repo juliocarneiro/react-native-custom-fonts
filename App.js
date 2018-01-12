@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     textAlign: 'center',
     margin: 10,
-    fontFamily: 'Open Sans Bold',
+    fontFamily: 'Open Sans',
   },
   instructions: {
     textAlign: 'center',
