@@ -63,6 +63,16 @@
 		<string>OpenSans-Regular.ttf</string>
 		<string>OpenSans-Semibold.ttf</string>
 		<string>OpenSans-SemiboldItalic.ttf</string>
+		<string>Open Sans Bold.ttf</string>
+		<string>Open Sans BoldItalic.ttf</string>
+		<string>Open Sans ExtraBold.ttf</string>
+		<string>Open Sans ExtraBoldItalic.ttf</string>
+		<string>Open Sans Italic.ttf</string>
+		<string>Open Sans Light.ttf</string>
+		<string>Open Sans LightItalic.ttf</string>
+		<string>Open Sans Semibold.ttf</string>
+		<string>Open Sans SemiboldItalic.ttf</string>
+		<string>Open Sans.ttf</string>
 	</array>
 </dict>
 </plist>
